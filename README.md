@@ -1,1 +1,70 @@
-# prabuisme
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Prabusite</title>
+  <table cellspacing="30">
+    <tr>
+      <td>
+        <img src="https://lh3.googleusercontent.com/a-/AOh14GjwBJHx_FMry6GmIJu9CjTxWesUA3X4jMccGt-kMA=s288-p-rw-no" alt="prabu profile pic">
+      </td>
+      <td>
+        <h1> Prabu </h1>
+        <p>
+          Charlatan, dreamer, sleeper
+        </p>
+        <br />
+        <p>
+          Recently am become <strong>coderman</strong>
+        </p>
+
+      </td>
+    </tr>
+  </table>
+</head>
+<hr>
+
+<body>
+  <h3>Education</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Duration</th>
+        <th>School</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2013 - 2016</td>
+        <td><a href="https://www.ntu.edu.sg/">NTU</a></td>
+      </tr>
+      <tr>
+        <td>2009 - 2010</td>
+        <td><a href="https://www.sji.edu.sg/">SJI</a></td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tbody>
+      <tr>
+        <td>Budgeting</td>
+        <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+      </tr>
+      <tr>
+        <td>Compliance</td>
+        <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+      </tr>
+      <tr>
+        <td>HTML</td>
+        <td>&#11088;&#11088;
+      </tr>
+    </tbody>
+  </table>
+  <hr />
+  <h3><a href="Contact.html">Contact me</a></h3>
+</body>
+
+</html>
